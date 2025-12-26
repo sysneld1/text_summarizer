@@ -258,7 +258,7 @@ model_path = "модели/grok-3.gguf"
 Telegram: @Vad_neld  
 E-mail: v.bel@list.ru
 
----
+
 ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
-```
+
 
